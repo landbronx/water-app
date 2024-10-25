@@ -19,4 +19,6 @@
  <input bind:value={runoffValue} placeholder="Runoff Value" type="number" />
  <input bind:value={soilDepth} placeholder="Soil Depth (m)" type="number" />
  <button on:click={submitArea}>Add Area</button>
+
+ 
  
